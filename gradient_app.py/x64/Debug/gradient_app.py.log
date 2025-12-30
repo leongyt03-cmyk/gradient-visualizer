@@ -1,0 +1,5 @@
+﻿  gradient_app.cpp
+D:\PPSM Y2\Y2S1\MAT201\gradient_app.py\gradient_app.cpp(1,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\PPSM Y2\Y2S1\MAT201\gradient_app.py\gradient_app.cpp(1,8): error C2146: syntax error: missing ';' before identifier 'streamlit'
+D:\PPSM Y2\Y2S1\MAT201\gradient_app.py\gradient_app.cpp(9,10): warning C4566: character represented by universal-character-name '\U0001F3AF' cannot be represented in the current code page (1252)
+D:\PPSM Y2\Y2S1\MAT201\gradient_app.py\gradient_app.cpp(12,1): error C1021: invalid preprocessor command 'Define'
